@@ -44,3 +44,17 @@
   color: #fff;
   border-bottom-color: #fff;
 }
+
+/* .scrolling{
+  background-color: black;
+  opacity: 60%;
+  transition-delay: .5ms;
+  transition-duration: 1.5s;
+} */
+
+.scrolling{
+  background-color: black;
+  opacity: 60%;
+  transition-delay: 5ms;
+  transition-duration: 1s;
+}
